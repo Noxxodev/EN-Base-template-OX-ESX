@@ -1,0 +1,11 @@
+{
+    "firstname": "Fristname",
+    "lastname": "Lastname",
+    "dob": "Date of birth",
+    "height": "Height",
+    "sex": "Sex",
+
+    "title": "Identity creation",
+    "male": "Male",
+    "female": "Female"
+}

@@ -1,0 +1,19 @@
+{
+	"tank_full": "The tank of this vehicle is full",
+	"petrolcan_cannot_afford": "You cannot afford to buy a jerrycan",
+	"refuel_cannot_afford": "You cannot afford to refuel your vehicle",
+	"vehicle_far": "Your vehicle is too far away",
+	"pump_fuel_with_can": "Store your jerrycan to use the pump",
+	"fuel_help": "Press ~INPUT_C2939D45~ to refuel",
+	"petrolcan_help": "Press ~INPUT_C2939D45~ to buy or refill a jerrycan",
+	"leave_vehicle": "Exit the vehicle to refuel",
+	"start_fueling": "Start refueling",
+	"petrolcan_buy_or_refill": "Buy or refill a jerrycan",
+	"fuel_station_blip": "Gas Station",
+	"not_enough_money": "You are short $%s",
+	"fuel_success": "Refueled to %s - $%s",
+	"petrolcan_refill": "You paid $%s to refill your jerrycan",
+	"petrolcan_buy": "You paid $%s for a jerrycan",
+	"petrolcan_cannot_carry": "You cannot carry this jerrycan",
+	"petrolcan_not_enough_fuel": "You do not have enough fuel in this jerrycan"
+}
